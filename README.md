@@ -9,3 +9,10 @@ Deretter prøvde jeg å overføre denne kunnskapen over til Flutter, slik at app
 Derfor byttet jeg ut Flutter med Swift. Med dette kunne jeg benytte de verktøyene jeg hadde bruk for, på bekostning av å kun kunne publisere til iOS.
 
 På grunn av skiftet fra Flutter til Swift ble prosjektet mer omfattende og er dermed noe jeg fremdeles utvikler på siden av studiene.
+
+## Mål
+
+Jeg har laget en skisse i Adobe XD for å lettere visualisere hvordan det endelige resultatet er ment å se ut.
+Her er en enkel GIF til demonstasjon:
+
+![Alt Text](https://media.giphy.com/media/UaQniQXzUsVV47d9qq/giphy.gif)
