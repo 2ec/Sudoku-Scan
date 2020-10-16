@@ -27,3 +27,21 @@ Jeg prototyper som nevnt i Python i Jupyter Notebook. Her leker jeg meg masse me
 
 Det originale bildet:
 
+<p align="center">
+  <img src="git_images/IMG_4901.jpg" height="500"/>
+</p>
+
+
+Forklaring til prosesseringen min:
+1. Finne det største rektanglet i bildet. Vi kan anta at dette er sudokubrettet.
+2. Vri denne firkanten slik at den blir et kvadrat i 2D-plan. (Bildet øverst til venstre)
+3. På bildet øverst til høyre har jeg lagt over et perfekt inndelt rutenett. Her ser vi at rutene ikke samsvarer siden arket bildet ble tatt av ikke var flatt.
+4. Jeg går over og fjerner rutenettet. For å finne den beste metoden til dette har vært en veldig kreativ prosess for å et stabilt resulat uavhengig om bildet er tatt bra eller ikke.
+5. Når rutenettet er fjernet, går jeg over bildet og sentrerer alle tallene slik at de står midt i sin rute. Dette er for å rette opp et bilde tatt på et ikke-flatt ark. Dette kan vi se resulatet av i bildet nederst til venstre.
+6. Kun som demonstrasjon legger jeg over det samme perfekte rutenettet fra punkt 3. Nå kan vi se at tallene er rettet opp og at de er sentrert midt i sin respektive rute.
+
+Det prosesserte bildet i 4 steg:
+
+<p align="center">
+  <img src="git_images/fire_plott.png" height="700"/>
+</p>
