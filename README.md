@@ -12,6 +12,8 @@ På grunn av skiftet fra Flutter til Swift ble prosjektet mer omfattende og er d
 
 ## Mål
 
+Tanken er her at brukeren har et sudokuspill i en avis som man sitter fast på og trenger et løsningshint. Denne appen gjør det da lett å scanne spillebrettet, løser det og gir dermed brukeren mulighet til både å få riktige løsningshint, samt spille videre på telefonen sin.
+
 Jeg har laget en skisse i Adobe XD for å lettere visualisere hvordan det endelige resultatet er ment å se ut.
 Her er en enkel GIF til demonstasjon:
 
