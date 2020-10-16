@@ -15,4 +15,15 @@ På grunn av skiftet fra Flutter til Swift ble prosjektet mer omfattende og er d
 Jeg har laget en skisse i Adobe XD for å lettere visualisere hvordan det endelige resultatet er ment å se ut.
 Her er en enkel GIF til demonstasjon:
 
-![Alt Text](https://media.giphy.com/media/UaQniQXzUsVV47d9qq/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/UaQniQXzUsVV47d9qq/giphy.gif">
+</p>
+
+Foreløpig er selve sudokubrettet i skissen tilnærmet en blåkopi av appen fra Sudoku.com, bortsett fra små endringer i ikonene og plasseringer. Dette er gjort for å raskere få på plass noe som ser riktig ut, uten å bruke for mye tid på å finne opp kruttet på nytt. 
+
+
+## Prototyping
+Jeg prototyper som nevnt i Python i Jupyter Notebook. Her leker jeg meg masse med spennende funksjoner i OpenCV. I bildet under kan man se resulatet etter bildebehandlingen for å hente ut brettet.
+
+Det originale bildet:
+
