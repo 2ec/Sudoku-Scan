@@ -325,4 +325,3 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         //print("Found \(rectangles.count) rectangles")
     }
 }
-
