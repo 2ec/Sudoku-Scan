@@ -19,7 +19,6 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     @IBOutlet weak var grid: UICollectionView!
     @IBOutlet weak var textLabel: UILabel!
     // Test comment
-    // NEw
     
     
     //var teller:Int = 0
