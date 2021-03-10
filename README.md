@@ -9,6 +9,7 @@ Deretter prøvde jeg å overføre denne kunnskapen over til Flutter, slik at app
 Derfor byttet jeg ut Flutter med Swift. Med dette kunne jeg benytte de verktøyene jeg hadde bruk for, på bekostning av å kun kunne publisere til iOS.
 
 På grunn av skiftet fra Flutter til Swift ble prosjektet mer omfattende og er dermed noe jeg fremdeles utvikler på siden av studiene.
+Siden jeg ikke har skrevet så mye i Swift tidligere, lærer jeg ivrig underveis og derfor er ikke koden så ryddig som jeg skulle ønske og setter som krav til meg selv i andre språk jeg behersker bedre.
 
 ## Mål
 
